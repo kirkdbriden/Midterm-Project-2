@@ -10,4 +10,4 @@ I attended Kirk Day School in St. Louis, Missouri from Kindergarten through sixt
 ![Westminster](https://townandstyle.com/wp-content/uploads/2017/08/wca-logo1.png)  
 I attended Westminster Christian Academy in St. Louis, Missouri from seventh grade through senior year of high school.
 ### College:
-![Mizzou]()  
+![Mizzou](1200px-Missouri_Tigers_logo.svg-2.png)  
