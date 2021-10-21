@@ -10,7 +10,7 @@ I attended **Kirk Day School** in St. Louis, Missouri from Kindergarten through 
 ### Middle School/High School:
 ![Westminster](https://townandstyle.com/wp-content/uploads/2017/08/wca-logo1.png)  
 I attended **Westminster Christian Academy** in St. Louis, Missouri from seventh grade through senior year of high school.  
-[Kirk Day School's Website](https://www.wcastl.org).
+[Westminster's Website](https://www.wcastl.org).
 ### College:
 ![Mizzou](1200px-Missouri_Tigers_logo.svg-2-2.png)  
 I currently attend the **University of Missouri** in Columbia, Missouri. I am studying Information Technology. My goal is to become a professional software developer and either start my own business or take over the business that my dad started. My favorite part about my schoolwork at Mizzou is the challenges that are assigned each week in my programming classes. My favorite challenge that I've done is to write a python program that takes a file from the user that has a list of numbers and returns stats about the numbers. Here is the code for the file:
