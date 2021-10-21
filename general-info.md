@@ -1,4 +1,7 @@
-[Home](README.md)
+[Home](README.md)  
+[School](school.md)  
+[Sports](sports.md)  
+[Hobbies](hobbies.md)  
 # General Info
 ![Me](SIX_8AD988DF-DC25-45D1-B154-95C300ACBE67-2.jpg)
 ## About Me:
